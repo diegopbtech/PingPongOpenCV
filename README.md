@@ -12,3 +12,4 @@ Um game de PingPong desenvolvido com visão computacional através da biblioteca
 EQUIPE DE DESENVOLVIMENTO
 - Diego Araújo
 - Lailton Vilarim
+- Vinycius Oliveira
